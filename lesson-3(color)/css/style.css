@@ -1,0 +1,10 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+    background-color: papayawhip;
+    color: purple;
+}
+p{
+    color:hsl(0, 0%, 0%);
+}
